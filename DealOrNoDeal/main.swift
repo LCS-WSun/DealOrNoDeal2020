@@ -94,6 +94,61 @@ for turn in 1...briefcasesOpened {
 // STUDENTS: Do any remaining calculations you might need below.
 
 
+//Implementing my logic but not knowing the proper syntax
+
+
+
+//if the banker's offer is less than the average of the unopened cases: NO DEAL
+
+if banker'sOffer <= averageOfUnopenedcases {
+print: ("NO DEAL")
+
+}
+
+//if the banker's offer is more than the average of the unopened cases: DEAL
+
+if banker'sOffer >= averageOfUnopenedcases {
+print("DEAL")
+}
+
+//if the banker's offer is equal to the average of the unopned cases: YOUR CHOICE
+
+if banker'sOffer == averageOfUnopened {
+print ("It is your choice to chose what")
+}
+
+
+
+//Firuring out the percentage of the cases
+
+let closedCases =
+
+let openCases =
+
+let percentageOfCases = (closed - open) / (closed) * 100
+
+// The user compare this value the banker's offer that he gives
+
+
+//Guard statements that need to be implemented
+
+// value 1-10
+// no user input
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 //
