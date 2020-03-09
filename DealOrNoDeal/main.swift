@@ -94,27 +94,42 @@ for turn in 1...briefcasesOpened {
 // STUDENTS: Do any remaining calculations you might need below.
 
 
+
 //Implementing my logic but not knowing the proper syntax
 
 
 
+//Figuring out the percentage of the cases
+
+//var closedCases = [] //A empty Array //User inputs value
+
+//VarOpenCases = []
 
 
+//var averageOfOpenAndClosedCases = (closedCases - openCases) / closedCases * 100
 
-//if the banker's offer is less than the average of the unopened cases: NO DEAL
+//var banker'sOffer = ( User inputs value somehow)
 
-//if banker'sOffer <= averageOfUnopenedcases {
-//print: ("NO DEAL")
 
+//The if statements
+
+//if the banker's offer is less than the average of the open and closed cases: NO DEAL
+
+//if banker'sOffer < averageOfOpenAndClosedCases {
+//print:("NO DEAL!")
 //}
 
-//if the banker's offer is more than the average of the unopened cases: DEAL
+
+
+//if the banker's offer is greater than the average of the opened and closed cases : NO DEAL
 
 //if banker'sOffer >= averageOfUnopenedcases {
-//print("DEAL")
+//print("DEAL!")
 //}
 
-//if the banker's offer is equal to the average of the unopned cases: YOUR CHOICE
+
+
+//if the banker's offer is equal to the average of the unopned cases and opened cases : YOUR CHOICE
 
 //if banker'sOffer == averageOfUnopened {
 //print ("It is your choice to chose what")
@@ -123,24 +138,11 @@ for turn in 1...briefcasesOpened {
 
 
 
-//Firuring out the percentage of the cases
-
-//let closedCases =
-
-//let openCases =
-
-//let percentageOfCases = (closed - open) / (closed) * 100
-
-// The user compare this value the banker's offer that he gives
-
-
 //Guard statements that need to be implemented
 
 // value 1-10
 // no user input
-
-
-
+//This is already implemented from Gordon
 
 
 
